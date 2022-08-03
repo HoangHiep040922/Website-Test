@@ -192,7 +192,7 @@
         <img src="images/Alone_34.jpg" class="img-fluid pd-3">
     </div>
     <div class="col-lg-4 col-md-4 col-12">
-        <img src="images/Alone_35.jpg" class="img-fluid pd-3">
+        <img src="images/Alone_35.JPG" class="img-fluid pd-3">
     </div>
     <div class="col-lg-4 col-md-4 col-12">
         <img src="images/Alone_36.jpg" class="img-fluid pd-3">
