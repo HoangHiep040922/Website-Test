@@ -55,14 +55,14 @@
     </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/Friends_5.jpg" alt="Tea With Friends">
+      <img class="d-block w-100" src="images/Alone_3.jpg" alt="Tea With Friends">
       <div class="carousel-caption d-non d-md-block">
         <h3>Cũng Là Trà Dễ Thương Nè ❤️</h3>
       </div>
     </div>
 
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/Friends_6.jpg" alt="Everything">
+      <img class="d-block w-100" src="images/Friends_28.jpg" alt="Everything">
       <div class="carousel-caption d-non d-md-block">
         <h3>Đố Biết Trà Ở Đâu Nè? ❤️🤭</h3>
       </div>
